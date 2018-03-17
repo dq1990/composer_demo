@@ -1,0 +1,16 @@
+{
+    "name": "dq1990/composer_demo",
+    "description": "study how to use composer",
+    "type": "project",
+    "require": {
+        "houdunwang/wechat": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dq1990",
+            "email": "377384249@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
